@@ -1,6 +1,6 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et  toute la spé data science dont Odin RUMIANOWSKI, Louis Schroll et Marine TEARD"
+author: "MP Etienne et  les MODE/EFCE dont Odin RUMIANOWSKI, Louis Schroll et Marine TEARD"
 date: "9/2/2023"
 output: html_document 
 ---
